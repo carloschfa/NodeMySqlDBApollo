@@ -131,4 +131,4 @@ const server = new ApolloServer({
 //
 // Apollo Server initiator.
 //
-server.listen(3002).then(({ url }) => console.log(`Server running at ${ url } and subscriptions at ${ server.subscriptionsPath }`));
+server.listen(3001).then(({ url }) => console.log(`Server running at ${ url } and subscriptions at ${ server.subscriptionsPath }`));
