@@ -11,7 +11,7 @@ const { PubSub } = require('apollo-server');
 const pubsub = new PubSub();
 
 //
-// MongoDB GraphQL Schema.
+// GraphQL Schema.
 //
 const typeDefs = gql`
   type Subscription {
