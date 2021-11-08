@@ -13,7 +13,7 @@
     "babel-preset-node5": "^12.0.1",
     "express": "^4.17.1",
     "express-graphql": "^0.9.0",
-    "graphiql": "^0.17.5",
+    "graphiql": "^1.4.7",
     "graphql": "^14.6.0",
     "lodash": "^4.17.15",
     "mysql2": "^2.1.0",
